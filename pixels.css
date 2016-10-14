@@ -1,0 +1,19 @@
+/* Pixel exercise - HurdAudio
+  G36
+*/
+
+body {
+  background-color: rgba(10, 10, 0, 0.1);
+
+}
+
+.canvas {
+
+  background-color: white;
+  width: 1005px;
+  height: 505px;
+  border: 5px solid black;
+  margin-left: 200px;
+  
+
+}
