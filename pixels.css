@@ -3,17 +3,49 @@
 */
 
 body {
-  background-color: rgba(10, 10, 0, 0.1);
+  background-color: rgba(50, 80, 0, 0.5);
+
+}
+
+h1 {
+  margin-left: 540px;
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+.colourIndicator {
+
+  box-sizing: border-box;
+  background-color: white;
+  position: relative;
+  width: 150px;
+  height: 250px;
+  margin-left: 20px;
+  border: 4px solid black;
+  display: inline;
+  float: left;
 
 }
 
 .canvas {
 
   background-color: white;
-  width: 1005px;
-  height: 505px;
-  border: 5px solid black;
+  position: relative;
+  width: 1000px;
+  height: 500px;
+  border: none;
   margin-left: 200px;
-  
+  float: center;
+
+
+}
+
+.palette {
+  background-color: silver;
+  width: 1200px;
+  height: 150px;
+  border: 2px solid black;
+  margin: 20px;
+  margin-left: 100px;
+
 
 }
